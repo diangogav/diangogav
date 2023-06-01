@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/diangogavidia" target="blank"><img src="https://img.shields.io/twitter/follow/diangogavidia?logo=twitter&style=for-the-badge" alt="diangogavidia" /></a> </p>
 
-- 🔭 I’m currently working on [Aument](https://platform.aument.io/)
+<!-- - 🔭 I’m currently working on [Aument](https://platform.aument.io/) -->
 
 - 🌱 I’m currently learning **Rust**
 
